@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thoughts on Ejas Muhammed</title>
-    <link>https://ejasmuhammed.com/categories/thoughts/</link>
+    <link>/categories/thoughts/</link>
     <description>Recent content in thoughts on Ejas Muhammed</description>
     <image>
       <title>Ejas Muhammed</title>
-      <url>https://ejasmuhammed.com/images/ejas-muhammed-cover.png</url>
-      <link>https://ejasmuhammed.com/images/ejas-muhammed-cover.png</link>
+      <url>/images/ejas-muhammed-cover.png</url>
+      <link>/images/ejas-muhammed-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ejasmuhammed.com/categories/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Group of Companies, a Dilemma</title>
-      <link>https://ejasmuhammed.com/posts/group-of-companies-a-dilemma/</link>
+      <link>/posts/group-of-companies-a-dilemma/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ejasmuhammed.com/posts/group-of-companies-a-dilemma/</guid>
+      <guid>/posts/group-of-companies-a-dilemma/</guid>
       <description>Entrepreneurs who want to create an ecosystem of companies all at once are at the peak of mount-unrealistic!</description>
     </item>
   </channel>

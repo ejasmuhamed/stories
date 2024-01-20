@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ejas Muhammed</title>
-    <link>https://ejasmuhammed.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Ejas Muhammed</description>
     <image>
       <title>Ejas Muhammed</title>
-      <url>https://ejasmuhammed.com/images/ejas-muhammed-cover.png</url>
-      <link>https://ejasmuhammed.com/images/ejas-muhammed-cover.png</link>
+      <url>/images/ejas-muhammed-cover.png</url>
+      <link>/images/ejas-muhammed-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ejasmuhammed.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>entreprenurship</title>
-      <link>https://ejasmuhammed.com/tags/entreprenurship/</link>
+      <link>/tags/entreprenurship/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ejasmuhammed.com/tags/entreprenurship/</guid>
+      <guid>/tags/entreprenurship/</guid>
       <description></description>
     </item>
     <item>
       <title>short-post</title>
-      <link>https://ejasmuhammed.com/tags/short-post/</link>
+      <link>/tags/short-post/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ejasmuhammed.com/tags/short-post/</guid>
+      <guid>/tags/short-post/</guid>
       <description></description>
     </item>
     <item>
       <title>startup</title>
-      <link>https://ejasmuhammed.com/tags/startup/</link>
+      <link>/tags/startup/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ejasmuhammed.com/tags/startup/</guid>
+      <guid>/tags/startup/</guid>
       <description></description>
     </item>
     <item>
       <title>thoughts</title>
-      <link>https://ejasmuhammed.com/tags/thoughts/</link>
+      <link>/tags/thoughts/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ejasmuhammed.com/tags/thoughts/</guid>
+      <guid>/tags/thoughts/</guid>
       <description></description>
     </item>
   </channel>
