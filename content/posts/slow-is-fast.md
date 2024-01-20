@@ -15,9 +15,6 @@ TocOpen: false
 draft: false
 ---
 
-
-# Slow is fast!
-
 I started my career building website and playing around with tech stuff.
 
 My cousin brother started a company and I joined him as a CTO. A CTO **with minimal knowledge and wisdom** in the tech domain. A leap from building websites to heading a company's tech team; **impossible**, but that happened.
