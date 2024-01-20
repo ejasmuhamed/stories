@@ -29,7 +29,7 @@ Titles will be tempting, but think long term, think stable, think realistic, thi
 
 ----------
 
-_These are not regrets but learnings from the mistakes that I have done whilst building my career. I lead a team of engineers now. I was created from the learnings, advices from wise people and moreover a lot of trials and errors. I wish people to see the slow but fast alternate journey._
+_These are not regrets but learnings from the mistakes that I have done whilst building my career. I lead a team of engineers now. I was created from the learnings, advices from wise people and moreover a lot of trials and errors. I wish people to discover the slow but fast alternate journey._
 
 
 _Thanks to [Faris Mohamed](https://farismohamed.me/) for unintentionally giving me the title to this story. (He mentioned ‘slow is fast’ in a random deep conversation we had.)_
