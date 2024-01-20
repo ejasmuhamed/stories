@@ -168,6 +168,9 @@ params:
     - name: Youtube
       title: Watch my videos on YouTube
       url: "https://www.youtube.com/channel/UC2zSbe7Rc30-m0k0gHJc1Zg"
+    - name: Email
+      title: Connect me via email
+      url: "mailto:ejasmuhamed@gmail.com"
     # - name: KoFi
     #   title: Buy me a Ko-Fi :)
     #   url: "https://ko-fi.com/adityatelange"
