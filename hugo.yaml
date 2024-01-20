@@ -110,7 +110,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Solution Architect & Technology Business Consultant | Founder & CEO, Bytsolv | Founder & Product Head, Lightspeed"
+  description: "Solution Architect & Technology Business Consultant | Founder & Product Head, Lightspeed | Founder & CEO, Bytsolv"
   author: Ejas Muhammed
   # author: ["Me", "You"] # multiple authors
 
