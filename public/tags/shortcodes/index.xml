@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shortcodes on Ejas Muhammed</title>
+    <link>https://ejasmuhammed.com/tags/shortcodes/</link>
+    <description>Recent content in shortcodes on Ejas Muhammed</description>
+    <image>
+      <title>Ejas Muhammed</title>
+      <url>https://ejasmuhammed.com/images/papermod-cover.png</url>
+      <link>https://ejasmuhammed.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ejasmuhammed.com/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rich Content and Shortcodes</title>
+      <link>https://ejasmuhammed.com/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ejasmuhammed.com/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+  </channel>
+</rss>

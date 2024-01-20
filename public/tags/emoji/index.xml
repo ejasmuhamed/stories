@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emoji on Ejas Muhammed</title>
+    <link>https://ejasmuhammed.com/tags/emoji/</link>
+    <description>Recent content in emoji on Ejas Muhammed</description>
+    <image>
+      <title>Ejas Muhammed</title>
+      <url>https://ejasmuhammed.com/images/papermod-cover.png</url>
+      <link>https://ejasmuhammed.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ejasmuhammed.com/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emoji Support</title>
+      <link>https://ejasmuhammed.com/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ejasmuhammed.com/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+  </channel>
+</rss>

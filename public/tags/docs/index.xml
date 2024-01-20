@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Ejas Muhammed</title>
+    <link>https://ejasmuhammed.com/tags/docs/</link>
+    <description>Recent content in Docs on Ejas Muhammed</description>
+    <image>
+      <title>Ejas Muhammed</title>
+      <url>https://ejasmuhammed.com/images/papermod-cover.png</url>
+      <link>https://ejasmuhammed.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ejasmuhammed.com/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAQs / How To&#39;s Guide</title>
+      <link>https://ejasmuhammed.com/old-posts/theme-defaults/papermod/papermod-faq/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ejasmuhammed.com/old-posts/theme-defaults/papermod/papermod-faq/</guid>
+      <description>We&amp;rsquo;ll try to answer frequently asked qestions by users.</description>
+    </item>
+  </channel>
+</rss>
