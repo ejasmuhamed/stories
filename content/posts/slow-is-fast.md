@@ -2,7 +2,7 @@
 author: "Ejas Muhammed"
 title: "Slow is fast!"
 date: "2024-01-20"
-description: "The story of how c-suite tempted me I how made the obvious mistake!"
+description: "The story of how c-suite role tempted me and how I made the obvious mistake!"
 tags: ["short-post", "startup", "entreprenurship", "thoughts"]
 categories: ["thoughts"]
 series: ["Quick Reads"]
