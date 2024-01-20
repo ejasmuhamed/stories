@@ -25,7 +25,7 @@ I faced the _**dual reality**_ of being unprepared for the position and the pres
 
 Fast forwarding to today, I see young talents choosing the C-suite in their own 1 week old company; the only advice echoes ‘**start slow**’.
 
-Titles will be tempting, but think long term, think stable, think realistic, think without bluffing to yourself, don’t try to bypass milestones. _**The process you hate it the process you need!**_
+Titles will be tempting, but think long term, think stable, think realistic, think without bluffing to yourself, don’t try to bypass milestones. _**The process you hate is the process you need!**_
 
 ----------
 
