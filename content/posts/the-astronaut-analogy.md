@@ -14,7 +14,10 @@ ShowToc: false
 TocOpen: false
 draft: false
 ---
-![images/astronaut-animation.svg](images/astronaut-animation.svg)
+
+<p align="center">
+  <img src="https://ejasmuhammed.com/images/astronaut-animation.svg" />
+</p>
 
 Often I picture myself as an astronaut 👨🏻‍🚀 who **explores the outer space**, returning with **exciting cosmic stones**. ☄️
 
