@@ -110,7 +110,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Solution Architect & Technology Business Consultant | Founder & Product Head, Lightspeed | Founder & CEO, Bytsolv"
+  description: "Solution Architect & Technology Business Consultant | Founder & Product Head, Lightspeed - l8s.io 🪐 | Founder & CEO, Bytsolv - byt.so 🚀"
   author: Ejas Muhammed
   keywords: ["Ejas Muhammed", "Solution Architect", "Technology Business Consultatnt", "Tech Kochi", "Bytsolv Founder", "Lightspeed Founder", "byt.so", "l8s.io", "Bluprint", "Tech Consultant Kochi", "Ejas", "Bytsolv CEO", "Lightspeed Product Head"]
   # author: ["Me", "You"] # multiple authors
