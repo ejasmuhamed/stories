@@ -1,7 +1,7 @@
 ---
 author: "Ejas Muhammed"
 title: "👨🏽‍🚀 The astronaut analogy…"
-date: "2024-01-21"
+date: "2024-01-22"
 description: "The story of my love towards outer-space theme and the astronaut analogy! 👨🏽‍🚀 🪐 ✨"
 tags: ["short-post", "analogy", "outer-space", "astonaut", "team"]
 categories: ["thoughts", "personal"]
