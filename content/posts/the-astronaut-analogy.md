@@ -14,13 +14,14 @@ ShowToc: false
 TocOpen: false
 draft: false
 ---
+![images/astronaut-animation.svg](images/astronaut-animation.svg)
 
-Often I picture myself as an astronaut who **explores the outer space**, returning with **exciting cosmic stones**.
+Often I picture myself as an astronaut 👨🏻‍🚀 who **explores the outer space**, returning with **exciting cosmic stones**. ☄️
 
-In this cosmic journey, the treasures are the help, opportunities, kindness and shared experiences that **I bring to my world—my family, team, and friends**.
+In this cosmic journey, the treasures are the help, opportunities, kindness and shared experiences that **I bring to my world—my family, team, and friends**. ✨
 
-When I built **[Bytsolv](https://byt.so)** with my team, I ensured its design theme mirrored outer-space; **my playground**. Together, my team and I explore the cosmic stones!
+When I built **[Bytsolv 🚀](https://byt.so)** with my team, I ensured its design theme mirrored outer-space; **my playground**. 🔭 Together, my team and I explore the cosmic stones! 🛸
 
-This analogy resonates with me.
+This analogy resonates with me. 🪐
 
 _Do you have such an analogy?_
