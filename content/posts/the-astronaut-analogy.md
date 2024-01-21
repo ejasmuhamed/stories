@@ -12,12 +12,11 @@ cover:
   caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
 ShowToc: false
 TocOpen: false
+# weight: 1
 draft: false
 ---
 
-<p align="center">
-  <img src="https://ejasmuhammed.com/images/astronaut-animation.svg" />
-</p>
+![ ](https://ejasmuhammed.com/images/astronaut-animation.svg#center)
 
 Often I picture myself as an astronaut 👨🏻‍🚀 who **explores the outer space**, returning with **exciting cosmic stones**. ☄️
 
