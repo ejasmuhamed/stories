@@ -33,7 +33,7 @@ I read to write!
 
 ----------
 
-_Recently (as of Jan 2023) I started to read more relevant stuff and started to articulate my thoughts. These actions helped me in gaining more clarity. Thoughts are not just thoughts anymore; I am writing and defining them._
+_Recently (as of Jan 2024) I started to read more relevant stuff and started to articulate my thoughts. These actions helped me in gaining more clarity. Thoughts are not just thoughts anymore; I am writing and defining them._
 
 _Thanks to **Fathima Nasreen**, my wife, companion and my best friend for mentioning that I was clueless because my pot was empty. She keeps reminding me about the Qur’an and how it can define us as a person._
 
