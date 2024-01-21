@@ -10,6 +10,7 @@ series: ["Quick Reads"]
 cover:
   image: images/slow-is-fast.png
   caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
+  hiddenInList: false
 ShowToc: false
 TocOpen: false
 # weight: 1
