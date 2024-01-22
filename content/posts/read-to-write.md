@@ -17,7 +17,7 @@ TocOpen: false
 draft: false
 ---
 
-I write because I read—it gives definition and clarity to my thoughts, influencing my actions.
+I write because I read—it gives definition and clarity to my thoughts, influencing my actions!
 
 Articulating my ideas through writing **solidifies** my understanding. The content I **consume** shapes my **clarity**.
 
