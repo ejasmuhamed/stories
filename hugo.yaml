@@ -38,8 +38,8 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
-        - name: Linkedin
-          url: https://linkedin.com/in/ejasmuhammed/
+        - name: Newsletter
+          url: https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7161614641851289600
 
   # fr:
   #   languageName: ":fr:"
@@ -156,8 +156,6 @@ params:
       - I am on a mission to ship a meaningful tool for solution architects and pms to visualize tech solutions and build them faster!
 
       - As part of this mission I am learning things by talking to people who are doing meaningful stuff, listening to pieces of advice and suggestions that matter; and writing all these here believing that it can help me gain more clarity on what I am doing and it may help others who are on the same ride.
-
-      
 
   socialIcons:
     # - name: github
