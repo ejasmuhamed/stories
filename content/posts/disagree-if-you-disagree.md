@@ -23,7 +23,7 @@ But what if I don’t convey it and act as if there is no disagreement? **It's a
 
 If you never express your disagreement and instead decide to reach a compromise where your opinions are suppressed, from then on, **you are lying**, and **you lose significance**.
 
-*Example: suppose you and I are discussing something, and I propose an opinion that benefits me. You don’t agree with me but choose to suppress your opinion and follow my lead. Now, I start to believe that we are on the same page when, in reality, we are not. If this pattern continues, with you always agreeing with me despite your disagreement, eventually, **you become irrelevant** because you never assert yourself. **Here, I am the only relevant person**.*
+*Example: Suppose you and I are discussing something, and I propose an opinion that benefits me. You don’t agree with me but choose to suppress your opinion and follow my lead. Now, I start to believe that we are on the same page when, in reality, we are not. If this pattern continues, with you always agreeing with me despite your disagreement, eventually, **you become irrelevant** because you never assert yourself. **Here, I am the only relevant person**.*
 
 ![Contribute by expressing opinions | Image free from Freepik](https://img.freepik.com/premium-vector/two-people-who-have-different-professions-have-same-vision-achieve-good-goal-simple-line-join-line_638785-724.jpg?w=2000)
 
