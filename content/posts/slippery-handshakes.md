@@ -17,9 +17,6 @@ TocOpen: false
 draft: false
 ---
 
-
-Handshakes are slippery but contracts are not. Here is an experience shared on how important is contracts along with strong handshakes.
-
 You gotta have **clarity and fairness in business**. You and the people around your business **should know the way forward**. Let’s consider a story, rather an experience.
 
 1️⃣ Once, I decided to partner with someone on a project. Excited about our collaboration, we jumped right in without putting anything in writing but a handshake. We did not realise that the **handshake was slippery**. Big mistake. As the project progressed, disagreements arose, and without clear terms, **both of us did not know what the terms was**, things quickly went out of control. It was a lesson learned **the hard way**.
