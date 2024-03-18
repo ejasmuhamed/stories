@@ -3,8 +3,8 @@ author: "Ejas Muhammed"
 title: "Group of Companies, a Dilemma"
 date: "2024-01-18"
 description: "Entrepreneurs who want to create an ecosystem of companies all at once are at the peak of mount-unrealistic!"
-tags: ["short-post", "startup", "entreprenurship", "thoughts"]
-categories: ["thoughts"]
+tags: ["short-post", "startup", "entreprenurship", "thoughts", "ethics"]
+categories: ["thoughts", "business"]
 series: ["Quick Reads"]
 # aliases: ["migrate-from-jekyl"]
 cover:

@@ -3,7 +3,7 @@ author: "Ejas Muhammed"
 title: "Clear your mess, right now"
 date: "2024-01-23"
 description: "Resigning from my company is how I cleared my mess. Untangling is not easy but it brings clarity."
-tags: ["short-post", "clarity", "productivity", "learnings"]
+tags: ["short-post", "clarity", "productivity", "learnings", "business"]
 categories: ["thoughts", "personal"]
 series: ["Quick Reads"]
 aliases: ["clear-your-mess-right-now"]

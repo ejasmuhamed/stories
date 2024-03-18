@@ -3,7 +3,7 @@ author: "Ejas Muhammed"
 title: "Disagree, if you disagree"
 date: "2024-01-27"
 description: "If you never express your disagreement and instead decide to reach a compromise where your opinions are suppressed, from then on, you are lying, and you lose significance."
-tags: ["short-post", "disagree", "opinion", "conversation"]
+tags: ["short-post", "disagree", "opinion", "conversation", "business", "ethics"]
 categories: ["thoughts", "personal", "clarity"]
 series: ["Quick Reads"]
 aliases: ["disagree-if-you-disagree"]

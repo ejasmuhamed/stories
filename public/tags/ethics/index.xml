@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ethics on Ejas Muhammed</title>
+    <link>/tags/ethics/</link>
+    <description>Recent content in ethics on Ejas Muhammed</description>
+    <image>
+      <title>Ejas Muhammed</title>
+      <url>/images/ejas-muhammed-cover.png</url>
+      <link>/images/ejas-muhammed-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slippery handshakes</title>
+      <link>/posts/the-escape-to-comfort-copy/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/the-escape-to-comfort-copy/</guid>
+      <description>Handshakes are slippery but contracts are not. Here is an experience shared on how important is contracts along with strong handshakes.</description>
+    </item>
+  </channel>
+</rss>
