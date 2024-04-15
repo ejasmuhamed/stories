@@ -2,148 +2,148 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ejas Muhammed</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Ejas Muhammed</description>
     <image>
       <title>Ejas Muhammed</title>
-      <url>//localhost:1313/images/ejas-muhammed-cover.png</url>
-      <link>//localhost:1313/images/ejas-muhammed-cover.png</link>
+      <url>/images/ejas-muhammed-cover.png</url>
+      <link>/images/ejas-muhammed-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business</title>
-      <link>//localhost:1313/tags/business/</link>
+      <link>/tags/business/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/business/</guid>
+      <guid>/tags/business/</guid>
       <description></description>
     </item>
     <item>
       <title>Ethics</title>
-      <link>//localhost:1313/tags/ethics/</link>
+      <link>/tags/ethics/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/ethics/</guid>
+      <guid>/tags/ethics/</guid>
       <description></description>
     </item>
     <item>
       <title>Short-Post</title>
-      <link>//localhost:1313/tags/short-post/</link>
+      <link>/tags/short-post/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/short-post/</guid>
+      <guid>/tags/short-post/</guid>
       <description></description>
     </item>
     <item>
       <title>Procrastination</title>
-      <link>//localhost:1313/tags/procrastination/</link>
+      <link>/tags/procrastination/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/procrastination/</guid>
+      <guid>/tags/procrastination/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity</title>
-      <link>//localhost:1313/tags/productivity/</link>
+      <link>/tags/productivity/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/productivity/</guid>
+      <guid>/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Conversation</title>
-      <link>//localhost:1313/tags/conversation/</link>
+      <link>/tags/conversation/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/conversation/</guid>
+      <guid>/tags/conversation/</guid>
       <description></description>
     </item>
     <item>
       <title>Disagree</title>
-      <link>//localhost:1313/tags/disagree/</link>
+      <link>/tags/disagree/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/disagree/</guid>
+      <guid>/tags/disagree/</guid>
       <description></description>
     </item>
     <item>
       <title>Opinion</title>
-      <link>//localhost:1313/tags/opinion/</link>
+      <link>/tags/opinion/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/opinion/</guid>
+      <guid>/tags/opinion/</guid>
       <description></description>
     </item>
     <item>
       <title>Clarity</title>
-      <link>//localhost:1313/tags/clarity/</link>
+      <link>/tags/clarity/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/clarity/</guid>
+      <guid>/tags/clarity/</guid>
       <description></description>
     </item>
     <item>
       <title>Learnings</title>
-      <link>//localhost:1313/tags/learnings/</link>
+      <link>/tags/learnings/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/learnings/</guid>
+      <guid>/tags/learnings/</guid>
       <description></description>
     </item>
     <item>
       <title>Analogy</title>
-      <link>//localhost:1313/tags/analogy/</link>
+      <link>/tags/analogy/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/analogy/</guid>
+      <guid>/tags/analogy/</guid>
       <description></description>
     </item>
     <item>
       <title>Astonaut</title>
-      <link>//localhost:1313/tags/astonaut/</link>
+      <link>/tags/astonaut/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/astonaut/</guid>
+      <guid>/tags/astonaut/</guid>
       <description></description>
     </item>
     <item>
       <title>Outer-Space</title>
-      <link>//localhost:1313/tags/outer-space/</link>
+      <link>/tags/outer-space/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/outer-space/</guid>
+      <guid>/tags/outer-space/</guid>
       <description></description>
     </item>
     <item>
       <title>Read</title>
-      <link>//localhost:1313/tags/read/</link>
+      <link>/tags/read/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/read/</guid>
+      <guid>/tags/read/</guid>
       <description></description>
     </item>
     <item>
       <title>Team</title>
-      <link>//localhost:1313/tags/team/</link>
+      <link>/tags/team/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/team/</guid>
+      <guid>/tags/team/</guid>
       <description></description>
     </item>
     <item>
       <title>Thoughts</title>
-      <link>//localhost:1313/tags/thoughts/</link>
+      <link>/tags/thoughts/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/thoughts/</guid>
+      <guid>/tags/thoughts/</guid>
       <description></description>
     </item>
     <item>
       <title>Write</title>
-      <link>//localhost:1313/tags/write/</link>
+      <link>/tags/write/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/write/</guid>
+      <guid>/tags/write/</guid>
       <description></description>
     </item>
     <item>
       <title>Entreprenurship</title>
-      <link>//localhost:1313/tags/entreprenurship/</link>
+      <link>/tags/entreprenurship/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/entreprenurship/</guid>
+      <guid>/tags/entreprenurship/</guid>
       <description></description>
     </item>
     <item>
       <title>Startup</title>
-      <link>//localhost:1313/tags/startup/</link>
+      <link>/tags/startup/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/startup/</guid>
+      <guid>/tags/startup/</guid>
       <description></description>
     </item>
   </channel>

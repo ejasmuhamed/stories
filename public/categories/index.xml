@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ejas Muhammed</title>
-    <link>//localhost:1313/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Ejas Muhammed</description>
     <image>
       <title>Ejas Muhammed</title>
-      <url>//localhost:1313/images/ejas-muhammed-cover.png</url>
-      <link>//localhost:1313/images/ejas-muhammed-cover.png</link>
+      <url>/images/ejas-muhammed-cover.png</url>
+      <link>/images/ejas-muhammed-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business</title>
-      <link>//localhost:1313/categories/business/</link>
+      <link>/categories/business/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/business/</guid>
+      <guid>/categories/business/</guid>
       <description></description>
     </item>
     <item>
       <title>Thoughts</title>
-      <link>//localhost:1313/categories/thoughts/</link>
+      <link>/categories/thoughts/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/thoughts/</guid>
+      <guid>/categories/thoughts/</guid>
       <description></description>
     </item>
     <item>
       <title>Clarity</title>
-      <link>//localhost:1313/categories/clarity/</link>
+      <link>/categories/clarity/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/clarity/</guid>
+      <guid>/categories/clarity/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal</title>
-      <link>//localhost:1313/categories/personal/</link>
+      <link>/categories/personal/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/personal/</guid>
+      <guid>/categories/personal/</guid>
       <description></description>
     </item>
     <item>
       <title>Learnings</title>
-      <link>//localhost:1313/categories/learnings/</link>
+      <link>/categories/learnings/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/learnings/</guid>
+      <guid>/categories/learnings/</guid>
       <description></description>
     </item>
     <item>
       <title>Mistakes</title>
-      <link>//localhost:1313/categories/mistakes/</link>
+      <link>/categories/mistakes/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/mistakes/</guid>
+      <guid>/categories/mistakes/</guid>
       <description></description>
     </item>
   </channel>
