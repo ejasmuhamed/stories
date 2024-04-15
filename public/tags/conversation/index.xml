@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>conversation on Ejas Muhammed</title>
-    <link>/tags/conversation/</link>
-    <description>Recent content in conversation on Ejas Muhammed</description>
+    <title>Conversation on Ejas Muhammed</title>
+    <link>//localhost:1313/tags/conversation/</link>
+    <description>Recent content in Conversation on Ejas Muhammed</description>
     <image>
       <title>Ejas Muhammed</title>
-      <url>/images/ejas-muhammed-cover.png</url>
-      <link>/images/ejas-muhammed-cover.png</link>
+      <url>//localhost:1313/images/ejas-muhammed-cover.png</url>
+      <link>//localhost:1313/images/ejas-muhammed-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/conversation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/conversation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Disagree, if you disagree</title>
-      <link>/posts/disagree-if-you-disagree/</link>
+      <link>//localhost:1313/posts/disagree-if-you-disagree/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/disagree-if-you-disagree/</guid>
+      <guid>//localhost:1313/posts/disagree-if-you-disagree/</guid>
       <description>If you never express your disagreement and instead decide to reach a compromise where your opinions are suppressed, from then on, you are lying, and you lose significance.</description>
     </item>
   </channel>

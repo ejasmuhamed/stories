@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>startup on Ejas Muhammed</title>
-    <link>/tags/startup/</link>
-    <description>Recent content in startup on Ejas Muhammed</description>
+    <title>Startup on Ejas Muhammed</title>
+    <link>//localhost:1313/tags/startup/</link>
+    <description>Recent content in Startup on Ejas Muhammed</description>
     <image>
       <title>Ejas Muhammed</title>
-      <url>/images/ejas-muhammed-cover.png</url>
-      <link>/images/ejas-muhammed-cover.png</link>
+      <url>//localhost:1313/images/ejas-muhammed-cover.png</url>
+      <link>//localhost:1313/images/ejas-muhammed-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/startup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slow is fast!</title>
-      <link>/posts/slow-is-fast/</link>
+      <link>//localhost:1313/posts/slow-is-fast/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/slow-is-fast/</guid>
+      <guid>//localhost:1313/posts/slow-is-fast/</guid>
       <description>The story of how c-suite role tempted me and how I made the obvious mistake!</description>
     </item>
     <item>
       <title>Group of Companies, a Dilemma</title>
-      <link>/posts/group-of-companies-a-dilemma/</link>
+      <link>//localhost:1313/posts/group-of-companies-a-dilemma/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/group-of-companies-a-dilemma/</guid>
+      <guid>//localhost:1313/posts/group-of-companies-a-dilemma/</guid>
       <description>Entrepreneurs who want to create an ecosystem of companies all at once are at the peak of mount-unrealistic!</description>
     </item>
   </channel>

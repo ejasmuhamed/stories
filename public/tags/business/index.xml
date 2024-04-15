@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>business on Ejas Muhammed</title>
-    <link>/tags/business/</link>
-    <description>Recent content in business on Ejas Muhammed</description>
+    <title>Business on Ejas Muhammed</title>
+    <link>//localhost:1313/tags/business/</link>
+    <description>Recent content in Business on Ejas Muhammed</description>
     <image>
       <title>Ejas Muhammed</title>
-      <url>/images/ejas-muhammed-cover.png</url>
-      <link>/images/ejas-muhammed-cover.png</link>
+      <url>//localhost:1313/images/ejas-muhammed-cover.png</url>
+      <link>//localhost:1313/images/ejas-muhammed-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/business/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Slippery handshakes</title>
-      <link>/posts/the-escape-to-comfort-copy/</link>
+      <title>Contracts for slippery handshakes</title>
+      <link>//localhost:1313/posts/slippery-handshakes/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/the-escape-to-comfort-copy/</guid>
+      <guid>//localhost:1313/posts/slippery-handshakes/</guid>
       <description>Handshakes are slippery but contracts are not. Here is an experience shared on how important is contracts along with strong handshakes.</description>
+    </item>
+    <item>
+      <title>Disagree, if you disagree</title>
+      <link>//localhost:1313/posts/disagree-if-you-disagree/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/disagree-if-you-disagree/</guid>
+      <description>If you never express your disagreement and instead decide to reach a compromise where your opinions are suppressed, from then on, you are lying, and you lose significance.</description>
+    </item>
+    <item>
+      <title>Clear your mess, right now</title>
+      <link>//localhost:1313/posts/clear-your-mess-right-now/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/clear-your-mess-right-now/</guid>
+      <description>Resigning from my company is how I cleared my mess. Untangling is not easy but it brings clarity.</description>
     </item>
   </channel>
 </rss>
