@@ -2,129 +2,138 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/business/</loc>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/fame/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/overnight-sensation/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/series/quick-reads/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/series/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/short-post/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/social-media/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/thoughts/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/business/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/business/</loc>
+    <loc>//localhost:1313/categories/business/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/posts/slippery-handshakes/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/slippery-handshakes/</loc>
+    <loc>//localhost:1313/tags/ethics/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/ethics/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/quick-reads/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/short-post/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/thoughts/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/procrastination/</loc>
+    <loc>//localhost:1313/tags/procrastination/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/productivity/</loc>
+    <loc>//localhost:1313/tags/productivity/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/the-escape-to-comfort/</loc>
+    <loc>//localhost:1313/posts/the-escape-to-comfort/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/clarity/</loc>
+    <loc>//localhost:1313/categories/clarity/</loc>
     <lastmod>2024-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/conversation/</loc>
+    <loc>//localhost:1313/tags/conversation/</loc>
     <lastmod>2024-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/disagree/</loc>
+    <loc>//localhost:1313/tags/disagree/</loc>
     <lastmod>2024-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/disagree-if-you-disagree/</loc>
+    <loc>//localhost:1313/posts/disagree-if-you-disagree/</loc>
     <lastmod>2024-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/opinion/</loc>
+    <loc>//localhost:1313/tags/opinion/</loc>
     <lastmod>2024-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/personal/</loc>
+    <loc>//localhost:1313/categories/personal/</loc>
     <lastmod>2024-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/clarity/</loc>
+    <loc>//localhost:1313/tags/clarity/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/clear-your-mess-right-now/</loc>
+    <loc>//localhost:1313/posts/clear-your-mess-right-now/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/learnings/</loc>
+    <loc>//localhost:1313/tags/learnings/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/the-astronaut-analogy/</loc>
+    <loc>//localhost:1313/posts/the-astronaut-analogy/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/analogy/</loc>
+    <loc>//localhost:1313/tags/analogy/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/astonaut/</loc>
+    <loc>//localhost:1313/tags/astonaut/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/learnings/</loc>
+    <loc>//localhost:1313/categories/learnings/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/mistakes/</loc>
+    <loc>//localhost:1313/categories/mistakes/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/outer-space/</loc>
+    <loc>//localhost:1313/tags/outer-space/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/read/</loc>
+    <loc>//localhost:1313/tags/read/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/read-to-write/</loc>
+    <loc>//localhost:1313/posts/read-to-write/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/team/</loc>
+    <loc>//localhost:1313/tags/team/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/thoughts/</loc>
+    <loc>//localhost:1313/tags/thoughts/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/write/</loc>
+    <loc>//localhost:1313/tags/write/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/entreprenurship/</loc>
+    <loc>//localhost:1313/tags/entreprenurship/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/slow-is-fast/</loc>
+    <loc>//localhost:1313/posts/slow-is-fast/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/startup/</loc>
+    <loc>//localhost:1313/tags/startup/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/group-of-companies-a-dilemma/</loc>
+    <loc>//localhost:1313/posts/group-of-companies-a-dilemma/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/archives.fr/</loc>
+    <loc>//localhost:1313/archives.fr/</loc>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>//localhost:1313/archives/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>//localhost:1313/search/</loc>
   </url><url>
-    <loc>/search.fr/</loc>
+    <loc>//localhost:1313/search.fr/</loc>
   </url>
 </urlset>

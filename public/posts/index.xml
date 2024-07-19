@@ -2,71 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ejas Muhammed</title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Ejas Muhammed</description>
     <image>
       <title>Ejas Muhammed</title>
-      <url>/images/ejas-muhammed-cover.png</url>
-      <link>/images/ejas-muhammed-cover.png</link>
+      <url>//localhost:1313/images/ejas-muhammed-cover.png</url>
+      <link>//localhost:1313/images/ejas-muhammed-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overnight Sensation</title>
+      <link>//localhost:1313/posts/overnight-sensation/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/overnight-sensation/</guid>
+      <description>Long time ago respect was earned through genuine achievements that contributed to the betterment of humanity.</description>
+    </item>
     <item>
       <title>Contracts for slippery handshakes</title>
-      <link>/posts/slippery-handshakes/</link>
+      <link>//localhost:1313/posts/slippery-handshakes/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/slippery-handshakes/</guid>
+      <guid>//localhost:1313/posts/slippery-handshakes/</guid>
       <description>Handshakes are slippery but contracts are not. Here is an experience shared on how important is contracts along with strong handshakes.</description>
     </item>
     <item>
       <title>The escape to comfort</title>
-      <link>/posts/the-escape-to-comfort/</link>
+      <link>//localhost:1313/posts/the-escape-to-comfort/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/the-escape-to-comfort/</guid>
+      <guid>//localhost:1313/posts/the-escape-to-comfort/</guid>
       <description>We need progress, yet we escape often—a paradoxical behaviour, isn&amp;#39;t it?</description>
     </item>
     <item>
       <title>Disagree, if you disagree</title>
-      <link>/posts/disagree-if-you-disagree/</link>
+      <link>//localhost:1313/posts/disagree-if-you-disagree/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/disagree-if-you-disagree/</guid>
+      <guid>//localhost:1313/posts/disagree-if-you-disagree/</guid>
       <description>If you never express your disagreement and instead decide to reach a compromise where your opinions are suppressed, from then on, you are lying, and you lose significance.</description>
     </item>
     <item>
       <title>Clear your mess, right now</title>
-      <link>/posts/clear-your-mess-right-now/</link>
+      <link>//localhost:1313/posts/clear-your-mess-right-now/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/clear-your-mess-right-now/</guid>
+      <guid>//localhost:1313/posts/clear-your-mess-right-now/</guid>
       <description>Resigning from my company is how I cleared my mess. Untangling is not easy but it brings clarity.</description>
     </item>
     <item>
       <title>👨🏽‍🚀 The astronaut analogy…</title>
-      <link>/posts/the-astronaut-analogy/</link>
+      <link>//localhost:1313/posts/the-astronaut-analogy/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/the-astronaut-analogy/</guid>
+      <guid>//localhost:1313/posts/the-astronaut-analogy/</guid>
       <description>The story of my love towards outer-space theme and the astronaut analogy! 👨🏽‍🚀 🪐 ✨</description>
     </item>
     <item>
       <title>Read to write</title>
-      <link>/posts/read-to-write/</link>
+      <link>//localhost:1313/posts/read-to-write/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/read-to-write/</guid>
+      <guid>//localhost:1313/posts/read-to-write/</guid>
       <description>The short story of how I started to read stuff to write stuff; to gain clarity!</description>
     </item>
     <item>
       <title>Slow is fast!</title>
-      <link>/posts/slow-is-fast/</link>
+      <link>//localhost:1313/posts/slow-is-fast/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/slow-is-fast/</guid>
+      <guid>//localhost:1313/posts/slow-is-fast/</guid>
       <description>The story of how c-suite role tempted me and how I made the obvious mistake!</description>
     </item>
     <item>
       <title>Group of Companies, a Dilemma</title>
-      <link>/posts/group-of-companies-a-dilemma/</link>
+      <link>//localhost:1313/posts/group-of-companies-a-dilemma/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/group-of-companies-a-dilemma/</guid>
+      <guid>//localhost:1313/posts/group-of-companies-a-dilemma/</guid>
       <description>Entrepreneurs who want to create an ecosystem of companies all at once are at the peak of mount-unrealistic!</description>
     </item>
   </channel>
